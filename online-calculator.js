@@ -1,6 +1,3 @@
-<script>
-
-
     $( document ).ready(function() {
 
         function formatNumber(num) {
@@ -220,10 +217,7 @@
     });
    
  
-</script>
 
-<script>
 $('form').submit(function() {
   return false;
 });
-</script>
